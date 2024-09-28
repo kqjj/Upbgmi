@@ -1,0 +1,4 @@
+telebot
+flask
+threading
+pymongo

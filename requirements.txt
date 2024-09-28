@@ -1,4 +1,3 @@
 telebot
 flask
-threading
 pymongo

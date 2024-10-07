@@ -12,10 +12,10 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 from keep_alive import keep_alive
 keep_alive()
 
-TOKEN = '7805303925:AAEGqAquE8DIkVpaqJMX6FIuwN2D0oNgmbU'
+TOKEN = '7376682624:AAFuZXujuqAtJaMB8jdZRTCHif8RpwbcH3Y'
 MONGO_URI = 'mongodb+srv://MasterBhaiyaa:MasterBhaiyaa@masterbhaiyaa.7bym6.mongodb.net/?retryWrites=true&w=majority&appName=MasterBhaiyaa'
 CHANNEL_ID = -1002255025786
-ADMIN_IDS = [1212368262]
+ADMIN_IDS = [1866816118]
 
 client = MongoClient(MONGO_URI, tlsCAFile=certifi.where())
 db = client['MasterBhaiyaa']
